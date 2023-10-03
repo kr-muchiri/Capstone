@@ -2,7 +2,7 @@
 import streamlit as st
 
 # Title and Introduction
-st.title("Problem-Solving Presentation on Analyzing Stock Market Volatility and Company Papers")
+st.title("Problem-Solving Presentation on Analyzing Stock Market Volatility and Company Financial Documents")
 
 # Project Phases and Objectives
 st.write("""
